@@ -1,0 +1,4 @@
+<a href="{{ "/" | relURL }}">Kezdőlap</a>
+{{ range .Site.Menus.main }}
+<a href="{{ .URL }}">{{ .Name }}</a>
+{{ end }}
