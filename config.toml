@@ -17,7 +17,9 @@ enableRobotsTXT = true
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
 [permalinks]
-  blog = "/:year/:month/:slug/"
+  journal = "/journal/:year/:month/:slug/"
+  log = "/log/:year/:month/:slug/"
+  projects = "/projects/:slug/"
   tags = "/tags/:slug"
 
 [params]
