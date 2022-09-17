@@ -4,36 +4,32 @@ on:
   push:
     branches:
       - main
-      - gh-actions-setup
-    paths:
-      - '*'
+
+env:
+  ACTIONS_ALLOW_UNSECURE_COMMANDS: true
+
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v2
       - name: Checkout
         uses: actions/setup-node@v1
-        with:
-          node-version: 10.x
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2.2.1
-        with:
-          hugo-version: '0.58.3'
-      # - name: Prepare Hugo
-      #   run: |
-      #               git submodule sync && git submodule update --init
+        uses: peaceiris/actions-hugo@v2.5.0
+
       - name: Build
         run: hugo --cleanDestinationDir
 
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@4.3.2
         with:
-          server: secondthought.media
-          username: cicd@secondthought.media
+          server: ${{ secrets.ftp_host }}
+          username: ${{ secrets.ftp_user }}
           password: ${{ secrets.ftp_pass }}
+          local-dir: ./public/
 
       # For publishing on Github Pages:
 
