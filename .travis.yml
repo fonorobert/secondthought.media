@@ -1,15 +1,20 @@
 # .travis.yml
-dist: trusty
-sudo: required
+#dist: trusty
+#sudo: required
 
-install:
- - wget -O /tmp/hugo.deb https://github.com/spf13/hugo/releases/download/v0.21/hugo_0.21_Linux-64bit.deb
- - sudo dpkg -i /tmp/hugo.deb
+#install:
+ #- wget -O /tmp/hugo.deb https://github.com/spf13/hugo/releases/download/v0.21/hugo_0.21_Linux-64bit.deb
+ #- sudo dpkg -i /tmp/hugo.deb
+os: linux
+language: minimal
+addons:
+  snaps:
+    - name: hugo
 
 branches:
   only:
     - main
-    - travis-setup
+
 
 script:
  - hugo
