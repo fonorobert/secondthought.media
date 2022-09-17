@@ -1,12 +1,10 @@
 # .travis.yml
-#dist: trusty
-#sudo: required
 
-#install:
- #- wget -O /tmp/hugo.deb https://github.com/spf13/hugo/releases/download/v0.21/hugo_0.21_Linux-64bit.deb
- #- sudo dpkg -i /tmp/hugo.deb
 os: linux
 language: minimal
+before_install:
+  - echo '{"ipv6":true,"fixed-cidr-v6":"2001:db8:1::/64"}' | sudo tee /etc/docker/daemon.json
+  - sudo service docker restart
 
 addons:
   snaps:
@@ -24,6 +22,5 @@ script:
 deploy:
   - provider: script
     script: ./deploy.sh
-    skip_cleanup: true
     on:
       branch: travis-setup
