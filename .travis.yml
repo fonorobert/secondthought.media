@@ -9,6 +9,7 @@ install:
 branches:
   only:
     - main
+    - travis-setup
 
 script:
  - hugo
