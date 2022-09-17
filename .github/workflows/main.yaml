@@ -5,6 +5,8 @@ on:
     branches:
       - main
       - gh-actions-setup
+env:
+  ACTIONS_ALLOW_UNSECURE_COMMANDS: true
 
 
 jobs:
