@@ -35,6 +35,7 @@ jobs:
           server: secondthought.media
           username: cicd@secondthought.media
           password: ${{ secrets.ftp_pass }}
+          local-dir: ./public/
 
       # For publishing on Github Pages:
 
