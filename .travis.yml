@@ -22,5 +22,6 @@ script:
 deploy:
   - provider: script
     script: ./deploy.sh
+    skip cleanup: true
     on:
       branch: travis-setup
