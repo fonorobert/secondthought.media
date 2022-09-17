@@ -5,8 +5,7 @@ on:
     branches:
       - main
       - gh-actions-setup
-    paths:
-      - '*'
+
 
 jobs:
   build:
