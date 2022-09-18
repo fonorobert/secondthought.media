@@ -2,7 +2,7 @@
 baseURL = "http://dev.secondthought.media"
 
 # The name of this wonderful theme ;-).
-theme = 'hugo-bearblog'
+theme = 'stm-theme'
 
 # Basic metadata configuration for your blog.
 title = "secondthought"
