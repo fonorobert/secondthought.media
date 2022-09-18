@@ -1,7 +1,7 @@
 +++
 title = "2 - Flaster"
 date = "2022-09-17T19:22:29+02:00"
-slug = "1-harapos-bacsi"
+slug = "2 - Flaster"
 tags = ["hu","vignette",]
 +++
 ![black dog biting at shoe on street](FONO2633.jpg)
