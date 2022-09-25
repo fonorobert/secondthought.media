@@ -1,7 +1,11 @@
 {{ define "main" }}
+
+{{ $paginator := .Paginate (where .Data.Pages "Type" "log") }}
+
 <content>
   <ul class="blog-posts">
-    {{ range .Pages }}
+    {{ range $paginator.Pages }}
+    <article>
     <h2>{{ .Title }}</h2>
     <p>
       <i>
@@ -10,11 +14,12 @@
         </time>
       </i>
     </p>
-    <content>
+
       {{ .Content }}
-    </content>
+
     <br/>
     <a href="{{ .Permalink }}"><small><i>link</i></small></a>
+    </article>
     <br/>
     <br/>
     <hr/>
@@ -23,4 +28,6 @@
     {{ end }}
 
 </content>
+<!-- Hugo's default pagination template. -->
+{{ template "partials/pagination.html" . }}
 {{ end }}
