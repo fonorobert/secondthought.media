@@ -1,0 +1,27 @@
+{{ define "main" }}
+<content>
+  <ul class="blog-posts">
+    {{ range .Pages }}
+    <h2>{{ .Title }}</h2>
+    <p>
+      <i>
+        <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+          {{ .Date.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}
+        </time>
+      </i>
+    </p>
+    <content>
+      {{ .Content }}
+    </content>
+    <br/>
+    <hr/>
+    <br/>
+    <!-- <p>
+      {{ range (.GetTerms "tags") }}
+      <a href="{{ .Permalink }}">#{{ .LinkTitle }}</a>
+      {{ end }}
+    </p> -->
+    {{ end }}
+
+</content>
+{{ end }}
