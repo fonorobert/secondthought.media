@@ -1,21 +1,12 @@
-# A match made in heaven
+_secondthought.media_ is the playground of Robert Fonó, a Budapest based photographer.
 
-There is a website obesity crisis. Bloated websites full of scripts, ads, and trackers are slowing your readers down every time they try to read your well-crafted content.
+<p class="has-large-font-size">
+  Robert writes <a href="https://secondthought.media/category/journal/" data-type="category" data-id="11">longer</a> and <a href="https://secondthought.media/log/" data-type="page" data-id="458">shorter</a> things, <a href="https://secondthought.media/tag/photography/" data-type="post_tag" data-id="18">makes photographs</a>, <a href="https://secondthought.media/category/zines/" data-type="category" data-id="16">zines</a> and probably does lots of other things.
+</p><figure class="wp-duotone-rgb111818-rgb255241222-5 wp-block-image size-large is-resized is-style-rounded">
 
-Hugo Bear Blog is all you need to build a fantastic and optimized site or blog. It works perfectly on **any** viewing device. All you need to focus on is writing good content.
 
-[Go to the original bear blog](https://bearblog.dev/).
+<hr/>
 
----
+I photograph for fun, passion and work [here](http://fonorobert.com").
 
-What happens when you combine the worlds' fastest, most lightweight static site generator with a design theme built to provide you with free, no-nonsense, super-fast blogging capabilities?
-
-**Use this theme, and find out!**
-
-Made with 💟 by [Jan Raasch](https://www.janraasch.com).
-
----
-
-Simply publish content online, grow an audience, and keep your pages tiny, fast, and **optimized for search engines**.
-
-Each page is ~5kb, and you can **host your blog yourself**.
+You can get in touch at [robert@fonorobert.com](mailto:robert@fonorobert.com).

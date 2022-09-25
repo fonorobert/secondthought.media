@@ -4,7 +4,7 @@ date = "2021-12-20T19:22:29+02:00"
 slug = "1-harapos-bacsi"
 tags = ["hu","vignette",]
 +++
-[![black dog biting at shoe on street](FONO2633-480.jpg)](FONO2633.jpg)
+![black dog biting at shoe on street](FONO2633.jpg)
 
 
 Van egy bácsi a környékünkön, aki, nem tudok jobb kifejezést, a cimborája a kutyámnak. Nem nekem, a kutyának. Persze nem jár a kutya kocsmába amíg én munkában vagyok, az egész teljesen alkoholmentes és a jelenlétemben történik. De a jelenlétem igazából mellékes nekik, ebben a kapcsolatban nem sok szerepem van.
