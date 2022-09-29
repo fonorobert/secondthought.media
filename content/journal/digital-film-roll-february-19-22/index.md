@@ -1,12 +1,9 @@
 ---
 author: Robert Fonó
-
 date: "2021-02-22T06:42:00Z"
-
 tags:
 - photography
 title: Digital film roll - February 19-22
-
 ---
 
 I’m trying something new for my day-to-day photography: digital film rolls. I read this idea somewhere, sadly I don’t remember where, but here’s the gist:
