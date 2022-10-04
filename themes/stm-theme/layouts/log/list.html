@@ -3,6 +3,7 @@
 {{ $paginator := .Paginate (where .Data.Pages "Type" "log") }}
 
 <content>
+  <h1>{{ .Title }}</h1>
   <ul class="blog-posts">
     {{ range $paginator.Pages }}
     <article>
