@@ -10,4 +10,5 @@ Robert writes [longer](/journal) and [shorter](/log) things, [makes photographs]
 
 I photograph for fun, passion and work [here](http://fonorobert.com).
 
+
 You can get in touch at [robert@fonorobert.com](mailto:robert@fonorobert.com).
