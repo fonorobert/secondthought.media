@@ -17,4 +17,4 @@ On the verge of a "can't get out of bed" level cold, we decided to still get out
 ![](FRP27200.JPG)
 ![](FRP27203.JPG)
 ![](FRP27207.JPG)
-![](FRP27227.JPG)
+![](FRP27227.jpeg)
