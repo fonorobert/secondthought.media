@@ -1,4 +1,5 @@
 +++
 title = "Projects"
-# menu = "main"
+menu = "main"
+weight = 4
 +++
