@@ -11,3 +11,5 @@ Here we see what's going to work and what not.
 This isn't a draft, I repeat this isn't a draft!
 
 > A quote block is a quote block
+
+![](FRP27216.jpeg)
