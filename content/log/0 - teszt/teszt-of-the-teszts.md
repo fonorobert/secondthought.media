@@ -1,7 +1,6 @@
 +++
 author = "Robert Fono"
 date = 2022-12-24T23:00:00Z
-draft = true
 title = "Teszt of the teszts"
 
 +++
