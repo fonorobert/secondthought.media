@@ -22,6 +22,7 @@ paginate = 7
   log = "/log/:year/:month/:slug/"
   projects = "/projects/:slug/"
   tags = "/tags/:slug"
+  pages = "/:slug"
 
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.
