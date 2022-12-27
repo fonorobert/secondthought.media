@@ -1,6 +1,6 @@
 +++
 title = "Project 365"
-type = "feed"
+type = "project-365"
 layout = "list"
 +++
 
