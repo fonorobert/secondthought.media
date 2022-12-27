@@ -1,6 +1,6 @@
 +++
 title = "Project 365"
-type = "project-365"
+type = "p365"
 layout = "list"
 +++
 

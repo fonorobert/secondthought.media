@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ $paginator := .Paginate (where .Data.Pages "Type" "project-365") }}
+{{ $paginator := .Paginate (where .Data.Pages "Type" "p365") }}
 
 <content>
   <h1>{{ .Title }}</h1> 
@@ -9,7 +9,8 @@
     {{ range $paginator.Pages }}
     <article>
     <p>
-      {{ .Title }}
+      <a href="{{ .Permalink }}">{{ .Title }}</a>
+      <br/>
       <i>
         <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
           {{ .Date.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}
@@ -19,12 +20,8 @@
 
       {{ .Content }}
 
-    <br/>
-    <a href="{{ .Permalink }}"><small><i>permalink</i></small></a>
     </article>
     <br/>
-    <br/>
-    <hr/>
     <hr/>
     <br/>
     {{ end }}
