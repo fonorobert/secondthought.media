@@ -1,6 +1,6 @@
 +++
 title = "Project 365"
-layout = "project-365/list.html"
+type = "project-365"
 +++
 
 A daily photography project.
