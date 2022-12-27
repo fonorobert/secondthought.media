@@ -1,6 +1,7 @@
 +++
 title = "Project 365"
-type = "project-365"
+type = "feed"
+layout = "list"
 +++
 
 A daily photography project.
