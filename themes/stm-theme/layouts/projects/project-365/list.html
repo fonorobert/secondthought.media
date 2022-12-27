@@ -1,0 +1,35 @@
+{{ define "main" }}
+
+{{ $paginator := .Paginate (where .Data.Pages "Type" "log") }}
+
+<content>
+  <h1>{{ .Title }}</h1> 
+  {{ .Content }}
+  <ul class="blog-posts">
+    {{ range $paginator.Pages }}
+    <article>
+    <h2><small>{{ .Title }}</small></h2>
+    <p>
+      <i>
+        <time datetime='{{ .Date.Format "2006-01-02" }}' pubdate>
+          {{ .Date.Format (default "02 Jan, 2006" .Site.Params.dateFormat) }}
+        </time>
+      </i>
+    </p>
+
+      {{ .Content }}
+
+    <br/>
+    <a href="{{ .Permalink }}"><small><i>permalink</i></small></a>
+    </article>
+    <br/>
+    <br/>
+    <hr/>
+    <hr/>
+    <br/>
+    {{ end }}
+
+</content>
+<!-- Hugo's default pagination template. -->
+{{ template "partials/pagination.html" . }}
+{{ end }}
