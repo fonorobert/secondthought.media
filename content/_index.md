@@ -1,13 +1,13 @@
-_secondthought.media_ is the playground of Robert Fonó, a Budapest based photographer.
+> Hello! _secondthought.media_ is my playground on the web. Take a look around!
 
 
-Robert writes [longer](/journal) and [shorter](/log) things, [makes photographs](/tags/photography),[zines](/projects/zines) and probably does lots of other things.
+I am Robert, a photographer, techie and overall messy creative, based in Budapest, Hungary. I [write stuff](/journal), [make photographs](/projects/project-365), and do lots of other things that I haven't put up here yet.
 
 ![](flowercrown.JPG)
 
 ---
 
 
-I photograph for fun, passion, and work [here](http://fonorobert.com).
+I have something resembling a __photography portfolio__ [here](http://fonorobert.com).
 
 You can get in touch at [robert@fonorobert.com](mailto:robert@fonorobert.com).

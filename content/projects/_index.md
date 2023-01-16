@@ -1,5 +1,5 @@
-+++
-title = "Projects"
-menu = "main"
-weight = 4
-+++
+---
+title: "Projects"
+#menu: "main"
+weight: 4
+---
