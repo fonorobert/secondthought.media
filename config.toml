@@ -18,8 +18,7 @@ disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
 paginate = 7
 [permalinks]
-  journal = "/journal/:year/:month/:slug/"
-  log = "/log/:year/:month/:slug/"
+  blog = "/blog/:year/:month/:slug/"
   projects = "/projects/:slug/"
   tags = "/tags/:slug"
   pages = "/:slug"
@@ -55,4 +54,3 @@ paginate = 7
   # dateFormat = "2006-01-02"
   # TODO: figure out how to show week of year
   # dateFormat = "06W52M"
-
