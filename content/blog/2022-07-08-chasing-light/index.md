@@ -2,6 +2,9 @@
 author: Robert Fonó
 date: "2022-07-08T23:25:53Z"
 title: Chasing light
+tags:
+- words
+- photography
 ---
 
 Weather: 28C, mostly sunny, windy in the afternoon

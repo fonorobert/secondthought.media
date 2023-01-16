@@ -2,6 +2,8 @@
 author: Robert Fonó
 date: "2022-07-10T23:27:49Z"
 title: Just a guy making photographs
+tags:
+- words
 ---
 
 Weather: 26C, sunny, pretty windy all day

@@ -3,6 +3,7 @@ author: Robert Fonó
 date: "2021-09-15T13:24:40Z"
 tags:
 - travel
+- photography
 title: Friends and high places
 ---
 

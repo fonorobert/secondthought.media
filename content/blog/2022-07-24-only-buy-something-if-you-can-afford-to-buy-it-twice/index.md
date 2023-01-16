@@ -2,6 +2,8 @@
 author: Robert Fonó
 date: "2022-07-24T23:15:08Z"
 title: Only buy something if you can afford to buy it twice
+tags:
+- words
 ---
 
 Weather: 33C, very mild (compared to yesterday’s 40C)

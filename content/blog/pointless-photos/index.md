@@ -4,6 +4,7 @@ date: "2022-01-21T19:51:50Z"
 tags:
 - photography
 - creativity
+- words
 title: Pointless photos
 ---
 

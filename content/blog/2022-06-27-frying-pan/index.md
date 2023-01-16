@@ -2,6 +2,8 @@
 author: Robert Fonó
 date: "2022-06-27T20:10:06Z"
 title: Frying pan
+tags:
+- words
 ---
 
 You walk to the train station just before noon, when the sun is harshest. You do this every day, and every day you swear to yourself that tomorrow you will leave earlier, avoid the worst of the heat. Then tomorrow comes and there you are again, never earlier than 11 in the morning.

@@ -4,6 +4,7 @@ date: "2022-06-27T14:57:04Z"
 tags:
 - technology
 - online culture
+- words
 title: Dead internet theory
 ---
 

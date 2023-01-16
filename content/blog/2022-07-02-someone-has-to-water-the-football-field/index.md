@@ -2,6 +2,8 @@
 author: Robert Fonó
 date: "2022-07-02T22:47:20Z"
 title: Someone has to water the football field
+tags:
+- words
 ---
 
 Weather: 34C, mostly sunny, everybody stewing in their own sweat

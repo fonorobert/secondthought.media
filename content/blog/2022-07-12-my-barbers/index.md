@@ -2,6 +2,8 @@
 author: Robert Fonó
 date: "2022-07-12T10:44:16Z"
 title: My barbers
+tags:
+- words
 ---
 
 Weather: 25C, sunny with a breeze

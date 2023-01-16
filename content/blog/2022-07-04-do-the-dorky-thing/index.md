@@ -2,6 +2,8 @@
 author: Robert Fonó
 date: "2022-07-04T23:39:35Z"
 title: Do the dorky thing!
+tags:
+- words
 ---
 
 Weather: 36C, still way too hot, but I’m starting to get used to always being drenched in sweat.
