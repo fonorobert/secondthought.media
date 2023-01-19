@@ -7,6 +7,7 @@ I am Robert, a photographer, techie and overall messy creative, based in Budapes
 
 ---
 
+I am learning and thinking in public at [The Grove](https://notes.secondthought.media).
 
 I have something resembling a photography portfolio [here](http://fonorobert.com).
 
