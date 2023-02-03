@@ -8,4 +8,6 @@ I serve as Project Manager at [DONE.](https://thisisdone.com/en/), a Budapest ba
 
 I am experimenting with learning and thinking in public via [The Grove](https://notes.secondthought.media), my public collection of budding notes on a range of topics. My current focus there is management and workflows.
 
+I am working on a collection of basic management tools and methods, I am hoping to publish this by spring.
+
 Since December 2022 I've been making a daily photography project, [Project 365](/projects/project-365/).
