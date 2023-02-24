@@ -2,7 +2,7 @@
 title = "What Meaning Means to Me"
 date = "2023-02-03T14:29:49+01:00"
 
-tags = ["words"]
+tags = ["words", "meaning"]
 +++
 
 My problem is that I want out from the empty, material existence. I want meaning, somtehing I can deeply believe and follow.
