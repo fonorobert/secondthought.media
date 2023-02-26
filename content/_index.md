@@ -11,4 +11,4 @@ I have something resembling a photography portfolio [here](http://fonorobert.com
 
 You can get in touch at [robert@fonorobert.com](mailto:robert@fonorobert.com).
 
-I am <a rel="me" href="https://xoxo.zone/@secondthought">secondthought @ xoxo.zone</a> on the fediverse.
+I am <a rel="me" href="https://xoxo.zone/@secondthought">@secondthought@xoxo.zone</a> on the fediverse.

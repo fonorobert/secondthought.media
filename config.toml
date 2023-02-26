@@ -10,6 +10,10 @@ author = "Robert Fonó"
 copyright = "Copyright © 2023, secondthought media."
 languageCode = "en-US"
 
+[markup.goldmark.renderer]
+  unsafe = true 
+# Allow HTML in md files
+
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
 
