@@ -1,7 +1,5 @@
 +++
 title = "🌵 Project Cactus"
-type = "p365"
-layout = "list"
 +++
 
 When someone says "enterprise software", designers tend to groan. Anybody who's ever used enterprise software tends to groan as well. But why is that? Why does enterprise software tend to be hard to use, clunky, uncomfortable, complicated?
