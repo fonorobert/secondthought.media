@@ -1,8 +1,7 @@
 +++
-title = "Project 365"
+title = "📷 Project 365"
 type = "p365"
 layout = "list"
-menu = "main"
 weight = 3
 +++
 
