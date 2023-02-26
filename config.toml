@@ -7,7 +7,7 @@ theme = 'stm-theme'
 # Basic metadata configuration for your blog.
 title = "secondthought"
 author = "Robert Fonó"
-copyright = "Copyright © 2022, secondthought media."
+copyright = "Copyright © 2023, secondthought media."
 languageCode = "en-US"
 
 # Generate a nice robots.txt for SEO
