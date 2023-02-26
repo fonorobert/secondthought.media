@@ -4,9 +4,9 @@ menu = "main"
 weight = 4
 +++
 
-I serve as Project Manager at [DONE.](https://thisisdone.com/en/), a Budapest based software development agency.
-
 I am working on a collection of basic management tools and methods, prototypes for SaaS software for small businesses and countless other side projects.
+
+My current focus project is [Project Cactus](/projects/project-cactus/), a prototype for a business tool.
 
 I am knee deep in the long project of discovering my [raison d'etre](/tags/meaning/)
 
