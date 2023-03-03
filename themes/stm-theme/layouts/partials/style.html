@@ -192,5 +192,12 @@
       color: #aaa;
     }
   }
+  article a[href^="http"]:where(:not([href*="paritybit.ca/"]))::after{
+    content: "︎⬈";
+  }
+
+  img a::after{
+      content: "" !important;
+  }
 
 </style>
