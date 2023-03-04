@@ -7,6 +7,8 @@ I am Robert, a photographer, techie and overall messy creative, based in Budapes
 
 ---
 
+I keep notes on concepts and patterns at [notes.secondthought.media](https://notes.secondthought.media).
+
 I have something resembling a photography portfolio [here](http://fonorobert.com).
 
 You can get in touch at [robert@fonorobert.com](mailto:robert@fonorobert.com).

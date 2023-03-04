@@ -192,5 +192,12 @@
       color: #aaa;
     }
   }
+  a[href^="http"]:where(:not([href*="secondthought.media/"]))::after{
+    content: "︎↗";
+  }
+
+  img a::after{
+      content: "" !important;
+  }
 
 </style>
