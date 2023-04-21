@@ -1,7 +1,7 @@
 ---
 author: Robert Fonó
-date: "2023-04-21T16:00:53Z"
-title: Weeknote for week 16/2023
+date: "2023-04-21T14:00:53Z"
+title: "Weeknote for week 16/2023"
 tags:
 - weeknotes
 ---
