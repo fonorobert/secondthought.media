@@ -7,7 +7,7 @@ theme = 'stm-theme'
 # Basic metadata configuration for your blog.
 title = "secondthought"
 author = "Robert Fonó"
-copyright = "Copyright © 2023, secondthought media."
+copyright = "Copyright © 2024, secondthought media."
 languageCode = "en-US"
 
 [markup.goldmark.renderer]
@@ -44,7 +44,7 @@ paginate = 7
   # Another "title" :-). This one is used as the site_name on the Hugo's internal
   # opengraph structured data template.
   # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-  title = "Robert Fonó"
+  title = "secondthought.media"
 
   # This theme will, by default, inject a made-with-line at the bottom of the page.
   # You can turn it off, but we would really appreciate if you don’t :-).
