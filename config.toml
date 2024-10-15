@@ -1,5 +1,5 @@
 
-baseURL = "https://secondthought.media"
+baseURL = "/"
 
 # The name of this wonderful theme ;-).
 theme = 'stm-theme'
