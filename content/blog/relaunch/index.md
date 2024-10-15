@@ -3,8 +3,6 @@ author: Robert Fonó
 date: "2024-10-15T23:27:49Z"
 title: Relaunch
 draft: false
-tags:
-- words
 ---
 
 It's been some time since [secondthought.media](https://secondthought.media) went offline. A bit more than a year maybe.
